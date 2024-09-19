@@ -1,0 +1,8 @@
+# Node.js modules
+node_modules/
+
+# Output files
+/output/*.txt
+
+# Other files
+notes.txt
